@@ -13,14 +13,7 @@
     document.getElementsByTagName("html")[0].className += " js";
   </script>
 
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
-  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700;900&display=swap" rel="stylesheet">
-
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-
-  <!-- Font Awesome -->
-  <script src="https://kit.fontawesome.com/5b704d19ed.js" crossorigin="anonymous"></script>
 
   <?php wp_head(); ?>
 

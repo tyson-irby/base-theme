@@ -1,0 +1,3 @@
+@use 'base' ;
+@use 'custom-style';
+@use 'components/**/*.scss'; // 👈import all the SCSS files in the css/components/* folder
